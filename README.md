@@ -53,9 +53,12 @@ Here are some hands-on projects I’ve worked on so far:
 
 ---
 
-🤝 Contribute
+**🤝 Contribute**
 If you have suggestions, improvements, or resources to share, feel free to open an Issue or a Pull Request.
 
-🚧 Work In Progress
+---
+
+**🚧 Work In Progress**
 This journey is ongoing! Check back regularly for updates as I continue to explore and learn DevOps.
 
+---
