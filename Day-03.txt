@@ -1,0 +1,2 @@
+wrote some script files doing functions like weather fetcher and backing up files 
+learn some git commands
