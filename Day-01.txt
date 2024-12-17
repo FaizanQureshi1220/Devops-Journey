@@ -1,0 +1,10 @@
+What is devops
+why devops 
+how does this work 
+SDLC 
+servers 
+virtual machines 
+hypervisor 
+various types of cloud servers 
+how to automate virtual machine creation 
+created an account on AWS to use virtual machines
