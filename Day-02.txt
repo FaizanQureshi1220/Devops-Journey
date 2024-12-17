@@ -1,0 +1,4 @@
+Created multiple EC2 Instances in AWS
+learned shell scripting 
+practiced basic and moderate commands 
+created multiple automation script files in virtual machines
